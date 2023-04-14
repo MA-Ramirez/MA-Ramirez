@@ -6,7 +6,7 @@
 
 ### Topics
 - Dynamical systems :wavy_dash:
-- Agent based modelling :busts_in_silhouette:
+- Agent-based modelling :busts_in_silhouette:
 - Evolutionary game theory 🎲
 - Complex systems ✳️ 
 - Reinforcement learning :arrows_counterclockwise:
