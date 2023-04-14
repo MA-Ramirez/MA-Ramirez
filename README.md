@@ -1,4 +1,3 @@
-![Background](https://user-images.githubusercontent.com/37352289/232054530-4e2d5729-1465-442e-855a-4e6c340691e1.jpg)
 # Hi! I am Alejandra! 
 
 ## I am a Doctoral Researcher
