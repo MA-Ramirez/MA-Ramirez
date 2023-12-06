@@ -14,6 +14,7 @@
 
 ### Selected publications
 * [Diversity enables the jump towards cooperation for the Traveler's Dilemma](https://www.nature.com/articles/s41598-023-28600-5) :busts_in_silhouette: 🎲 :classical_building:
+* [Game Manipulators -- the strategic implications of binding contracts](https://arxiv.org/abs/2311.10586) ⚡️ 🎲 :moneybag:
 
 ## Programming 💻
 
